@@ -1,6 +1,5 @@
-Makarov Heorhiy, 71
-Smirnov Ivan, 60
-Petrenko Darina, 88
-Ponomarenko Katerina, 93
-Morozov Pavlo, 74
-Stetsenko Vladislav, 65
+Malaniuk Yevhen, 73
+Romanenko Mariya, 66
+Sokolovska Alisa, 48
+Radchenko Stepan, 93
+Bilous Andriy, 60

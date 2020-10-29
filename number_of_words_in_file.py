@@ -85,6 +85,20 @@ def numberOfUniqueWords():
 # Варіант 1. Знайдіть у тексті найдовшу послідовність слів, що повторюється більше одного разу.
 
 #def longestSequence():
+    #wordlist = Path(test).read_text(encoding = 'utf-8').split()
+    #repeated = []
+        ##for i in range (0, len(wordlist)):
+        ##word = wordlist[i]
+    #i = 0
+    #wordlist = []
+    #word = worldist[i]
+    #while i <= len(wordlist):
+        #if(wordlist.count(word) > 1):
+            #word = word + wordlist[wordlist.index(word) + 1]
+            #repeated.append(word)
+        #else:
+            #word = wordlist[wordlist.index(word) + 1]
+    #print(repeated)  
 
 numberOfCharsWithSpaces()
 numberOfCharsWithSpaces2()
