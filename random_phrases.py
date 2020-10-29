@@ -15,4 +15,5 @@ random.shuffle(foods)
 f = foods[1]
 
 print(n + ' ' + v + ' ' + f)
-
+      
+                    
